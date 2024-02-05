@@ -284,7 +284,7 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Mompó]
+  last_name: [Mompó, Mompo]
   first_name: [Emanuel, E.]
 
   style: apa
