@@ -125,7 +125,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Blog de Emanuel # blog_name will be displayed in your blog page
-blog_description: Algunas curiosidades que se me ocurren de tanto en tanto
+blog_description: Algunas curiosidades que se me ocurren de tanto en tanto.
 permalink: /blog/:year/:title/
 
 # Pagination
