@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://egmompo.github.io/sitemap.xml
