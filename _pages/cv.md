@@ -1,11 +1,11 @@
 ---
 layout: cv
 permalink: /cv/
-title: Currículum
+title: cv
 nav: true
 nav_order: 5
 cv_pdf: cv-emanuel_mompo-esp.pdf
-description: Abajo tenéis mi currículum académico.
+description: (Currículum <b>en castellano</b> en el icono a la derecha)
 toc:
   sidebar: left
 ---
