@@ -4,20 +4,20 @@
     "categoría": "Profesor Colaborador Asistente",
     "image": "",
     "correo": "egmompo@comillas.edu",
-    "url": "www.google.es",
+    "url": "https://egmompo.github.io/",
     "investigación": "Sistemas dinámicos no lineales: Caos, generación de números aleatorios, fenómenos inducidos por el ruido, superredes de semiconductores. Física estadística y sistemas complejos: Efectos de memoria, relajación anómala, rutas alternativas hacia el equilibrio, medios granulares, redes de espines, puntos cuánticos.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Alberto Aguilera - 25",
+      "postalCode": "28015",
+      "city": "Madrid",
+      "countryCode": "ES",
+      "region": "Madrid"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "url": "https://github.com/egmompo",
+        "username": "egmompo",
+        "network": "github"
       }
     ]
   },
