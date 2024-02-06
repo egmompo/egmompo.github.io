@@ -1,12 +1,11 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "Nombre": "Emanuel Gaston Mompó Pavesi",
+    "Categoría actual": "Profesor Colaborador Asistente",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "egmompo@comillas.edu",
+    "url": "https://www.linkedin.com/in/emanuelmompo/",
+    "summary": "Lorem ipsum dolor sit amet consectetur adipiscing elit ridiculus faucibus, conubia nulla aenean per nec nam sagittis dapibus egestas, tincidunt natoque sollicitudin est tristique ligula litora magnis. Urna dapibus luctus tincidunt habitasse pulvinar augue inceptos mi, semper sagittis lacus libero interdum donec placerat. Cursus curabitur eget lacinia litora malesuada pellentesque non cum ornare, nostra ridiculus cras natoque integer mauris dictumst fermentum, porttitor tempus vel pretium gravida bibendum purus inceptos.",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
