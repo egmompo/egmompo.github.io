@@ -1,11 +1,11 @@
 ---
 layout: cv
 permalink: /cv/
-title: Currículum académico
+title: Currículum
 nav: true
 nav_order: 5
 cv_pdf: cv-emanuel_mompo-esp.pdf
-#description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+description: Abajo tenéis mi currículum académico.
 toc:
   sidebar: left
 ---
