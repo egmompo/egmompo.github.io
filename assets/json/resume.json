@@ -1,11 +1,11 @@
 {
-  "basics": {
+  "Introducción": {
     "Nombre": "Emanuel Gaston Mompó Pavesi",
     "Categoría actual": "Profesor Colaborador Asistente",
     "image": "",
     "email": "egmompo@comillas.edu",
     "url": "https://www.linkedin.com/in/emanuelmompo/",
-    "summary": "Lorem ipsum dolor sit amet consectetur adipiscing elit ridiculus faucibus, conubia nulla aenean per nec nam sagittis dapibus egestas, tincidunt natoque sollicitudin est tristique ligula litora magnis. Urna dapibus luctus tincidunt habitasse pulvinar augue inceptos mi, semper sagittis lacus libero interdum donec placerat. Cursus curabitur eget lacinia litora malesuada pellentesque non cum ornare, nostra ridiculus cras natoque integer mauris dictumst fermentum, porttitor tempus vel pretium gravida bibendum purus inceptos.",
+    "Descripción": "Lorem ipsum dolor sit amet consectetur adipiscing elit ridiculus faucibus, conubia nulla aenean per nec nam sagittis dapibus egestas, tincidunt natoque sollicitudin est tristique ligula litora magnis. Urna dapibus luctus tincidunt habitasse pulvinar augue inceptos mi, semper sagittis lacus libero interdum donec placerat. Cursus curabitur eget lacinia litora malesuada pellentesque non cum ornare, nostra ridiculus cras natoque integer mauris dictumst fermentum, porttitor tempus vel pretium gravida bibendum purus inceptos.",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -21,7 +21,7 @@
       }
     ]
   },
-  "work": [
+  "Trabajos": [
     {
       "name": "Institute for Advanced Study, Princeton University",
       "position": "Professor of Theoretical Physics",
@@ -32,7 +32,7 @@
       "highlights": ["Relativity"]
     }
   ],
-  "volunteer": [
+  "Voluntariados": [
     {
       "organization": "People's Climate March",
       "position": "Lead Organizer",
@@ -43,7 +43,7 @@
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
-  "education": [
+  "Educación": [
     {
       "institution": "University of Zurich, Zurich, Switzerland",
       "location": "Zurich, Switzerland",
@@ -65,7 +65,7 @@
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
-  "certificates": [
+  "Certificaciones": [
     {
       "name": "Machine Learning",
       "date": "2018-01-01",
@@ -109,7 +109,7 @@
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
-  "publications": [
+  "Publicaciones": [
     {
       "name": "Zur Elektrody/namik bewegter Körper",
       "publisher": "Annalen der Physik",
@@ -147,15 +147,21 @@
       ]
     }
   ],
-  "languages": [
+  "Idiomas": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "language": "Español",
+      "fluency": "Nativo",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "Inglés",
+      "fluency": "C2",
+      "highlights": ["LanguageCert Level 3 Certificate in ESOL International (Listening, Reading, Writing) (Mastery C2)", "LanguageCert Level 3 Certificate in ESOL International (Speaking) (Mastery C2)"],
+      "icon": ""
+    },
+    {
+      "language": "Valenciano/Catalán",
+      "fluency": "B2",
       "icon": ""
     }
   ],
