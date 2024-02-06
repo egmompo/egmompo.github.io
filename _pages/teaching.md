@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: docencia
+description: Horario de tutorías, asignaturas que imparto, y material de apoyo.
 nav: true
 nav_order: 6
 ---
