@@ -5,7 +5,7 @@
     "image": "",
     "correo": "egmompo@comillas.edu",
     "url": "https://egmompo.github.io/",
-    "investigación": "Sistemas dinámicos no lineales: Caos, generación de números aleatorios, fenómenos inducidos por el ruido, superredes de semiconductores. Física estadística y sistemas complejos: Efectos de memoria, relajación anómala, rutas alternativas hacia el equilibrio, medios granulares, redes de espines, puntos cuánticos.",
+    "investigación": "<b>Sistemas dinámicos no lineales</b>: Caos, generación de números aleatorios, fenómenos inducidos por el ruido, superredes de semiconductores. <b>Física estadística y sistemas complejos</b>: Efectos de memoria, relajación anómala, rutas alternativas hacia el equilibrio, medios granulares, redes de espines, puntos cuánticos.",
     "location": {
       "address": "Alberto Aguilera - 25",
       "postalCode": "28015",
@@ -15,7 +15,7 @@
     },
     "profiles": [
       {
-        "url": "https://github.com/egmompo",
+        "url": "https://github.com/egmompo/",
         "username": "egmompo",
         "network": "github"
       }
