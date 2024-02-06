@@ -1,25 +1,11 @@
 {
   "basics": {
-    "Nombre": "Emanuel Gaston Mompó Pavesi",
-    "Categoría actual": "Profesor Colaborador Asistente",
+    "nombre": "Emanuel Mompó",
+    "categoría": "Profesor Colaborador Asistente",
     "image": "",
-    "email": "egmompo@comillas.edu",
-    "url": "https://www.linkedin.com/in/emanuelmompo/",
-    "summary": "Lorem ipsum dolor sit amet consectetur adipiscing elit ridiculus faucibus, conubia nulla aenean per nec nam sagittis dapibus egestas, tincidunt natoque sollicitudin est tristique ligula litora magnis. Urna dapibus luctus tincidunt habitasse pulvinar augue inceptos mi, semper sagittis lacus libero interdum donec placerat. Cursus curabitur eget lacinia litora malesuada pellentesque non cum ornare, nostra ridiculus cras natoque integer mauris dictumst fermentum, porttitor tempus vel pretium gravida bibendum purus inceptos.",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "correo": "egmompo@comillas.edu",
+    "url": "",
+    "investigación": "Sistemas dinámicos no lineales: Caos, generación de números aleatorios, fenómenos inducidos por el ruido, superredes de semiconductores. Física estadística y sistemas complejos: Efectos de memoria, relajación anómala, rutas alternativas hacia el equilibrio, medios granulares, redes de espines, puntos cuánticos.",
   },
   "work": [
     {
