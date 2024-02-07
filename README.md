@@ -1,6 +1,6 @@
 # Página web personal
 
-Enlace a la [página web](https://egmompo.github.io/)
+Enlace a la [página web](https://egmompo.github.io/).
 
 ---
 
