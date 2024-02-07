@@ -3,7 +3,7 @@ layout: page
 title: proyectos
 permalink: /projects/
 description: Proyectos en los que participo.
-nav: true
+nav: false
 nav_order: 3
 display_categories: [work, fun]
 horizontal: false
