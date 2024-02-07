@@ -5,19 +5,19 @@ permalink: /teaching/
 description: Horario de tutorías, asignaturas que imparto, y material de apoyo.
 nav: true
 nav_order: 4
-display_categories: [curso actual, cursos anteriores]
+display_categories: [curso actual, material, cursos anteriores]
 horizontal: false
 ---
 
-<!-- pages/teaching.md -->
-<div class="teaching">
+<!-- pages/projects.md -->
+<div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {% for category in page.display_categories %}
   <a id="{{ category }}" href=".#{{ category }}">
     <h2 class="category">{{ category }}</h2>
   </a>
-  {% assign categorized_projects = site.teaching | where: "category", category %}
+  {% assign categorized_projects = site.projects | where: "category", category %}
   {% assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
   {% if page.horizontal %}
@@ -41,7 +41,7 @@ horizontal: false
 
 <!-- Display projects without categories -->
 
-{% assign sorted_projects = site.teaching | sort: "importance" %}
+{% assign sorted_projects = site.projects | sort: "importance" %}
 
   <!-- Generate cards for each project -->
 
