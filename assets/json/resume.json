@@ -39,7 +39,7 @@
       "position": "Profesor ayudante",
       "url": "https://www.uc3m.es/",
       "startDate": "2019-12-01",
-      "endDate":  "2022-08-01",
+      "endDate": "2022-08-01",
       "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "highlights": [
         "<a href='https://www.uc3m.es/departamento-matematicas/inicio/'>Departamento de Matemáticas</a",
@@ -52,18 +52,16 @@
       "position": "Investigador visitante",
       "url": "https://www.nyu.edu/",
       "startDate": "2018-09-01",
-      "endDate":  "2018-12-01",
+      "endDate": "2018-12-01",
       "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "highlights": [
-        "<a href='https://cims.nyu.edu/dynamic/'>Courant Institute of Mathematical Sciences</a"
-      ]
+      "highlights": ["<a href='https://cims.nyu.edu/dynamic/'>Courant Institute of Mathematical Sciences</a"]
     },
     {
       "name": "Universidad Carlos III de Madrid",
       "position": "Profesor ayudante",
       "url": "https://www.uc3m.es/",
       "startDate": "2016-01-01",
-      "endDate":  "2019-12-01",
+      "endDate": "2019-12-01",
       "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       "highlights": [
         "<a href='https://portal.uc3m.es/portal/page/portal/dpto_ciencia_mat_ing_quim'>Departamento de Ciencia e Ingeniería de Materiales e Ingeniería Química</a",
