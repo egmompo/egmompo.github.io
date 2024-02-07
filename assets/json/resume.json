@@ -23,13 +23,12 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Universidad Pontificia Comillas – ICAI",
+      "position": "Profesor Colaborador Asistente",
+      "url": "https://www.comillas.edu/",
+      "startDate": "2022-09-01",
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "highlights": ["<a href='https://www.comillas.edu/error-404/?error_404&uri=https://www.comillas.edu/icai/en/icai/departamentos/dma/'>Departamento de Matemática Aplicada</a"]
     }
   ],
   "volunteer": [
