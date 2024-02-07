@@ -1,0 +1,57 @@
+From 4cbe6a56a8eab200424d2661ecd93f09964666b0 Mon Sep 17 00:00:00 2001
+From: egmompo <egmompo@gmail.com>
+Date: Wed, 7 Feb 2024 15:22:03 +0100
+Subject: [PATCH] cambios minimos
+
+---
+ _pages/404.md      | 6 +++---
+ _pages/about.md    | 2 +-
+ _pages/projects.md | 2 +-
+ 3 files changed, 5 insertions(+), 5 deletions(-)
+
+diff --git a/_pages/404.md b/_pages/404.md
+index f0d9804..5b5ece3 100644
+--- a/_pages/404.md
++++ b/_pages/404.md
+@@ -1,9 +1,9 @@
+ ---
+ layout: page
+ permalink: /404.html
+-title: "Page not found"
+-description: "Looks like there has been a mistake. Nothing exists here."
++title: "Página no encontrada"
++description: "No hay nada en esta url."
+ redirect: true
+ ---
+ 
+-You will be redirected to the main page within 3 seconds. If not redirected, please go back to the [home page]({{ site.baseurl | prepend: site.url }}).
++Redirigiendo a la [página principal]({{ site.baseurl | prepend: site.url }}). en 3 segundos.
+diff --git a/_pages/about.md b/_pages/about.md
+index 605ffb7..5781c89 100644
+--- a/_pages/about.md
++++ b/_pages/about.md
+@@ -7,7 +7,7 @@ subtitle:
+ profile:
+   align: right
+   image: prof_pic.jpg
+-  image_circular: true # crops the image to make it circular
++  image_circular: false # crops the image to make it circular
+   more_info: >
+     <p>D-417</p>
+     <p>Alberto Aguilera 25</p>
+diff --git a/_pages/projects.md b/_pages/projects.md
+index 4bad165..8be39ff 100644
+--- a/_pages/projects.md
++++ b/_pages/projects.md
+@@ -3,7 +3,7 @@ layout: page
+ title: proyectos
+ permalink: /projects/
+ description: Proyectos en los que participo.
+-nav: true
++nav: false
+ nav_order: 3
+ display_categories: [work, fun]
+ horizontal: false
+-- 
+2.43.0
+
