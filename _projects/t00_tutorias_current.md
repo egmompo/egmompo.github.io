@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Tutorías
-description: Enlaces a la agenda de tutorías.
+description: Semana del 5 al 9 de febrero
 img: assets/img/12.jpg
+redirect: https://www.wejoinin.com/sheets/vgwjz
 importance: 1
 category: curso actual
 ---
