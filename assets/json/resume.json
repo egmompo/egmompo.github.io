@@ -28,7 +28,48 @@
       "url": "https://www.comillas.edu/",
       "startDate": "2022-09-01",
       "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "highlights": ["<a href='https://www.comillas.edu/error-404/?error_404&uri=https://www.comillas.edu/icai/en/icai/departamentos/dma/'>Departamento de Matemática Aplicada</a"]
+      "highlights": [
+        "<a href='https://www.icai.comillas.edu/en/icai/departamentos/dma/'>Departamento de Matemática Aplicada</a",
+        "<a href='https://www.comillas.edu/investigacion/grupos/dinamica-no-lineal/'>Grupo de Dinámica no lineal</a",
+        "<a href='https://www.iit.comillas.edu/'>Instituto de Investigación Tecnológica (IIT)</a"
+      ]
+    },
+    {
+      "name": "Universidad Carlos III de Madrid",
+      "position": "Profesor ayudante",
+      "url": "https://www.uc3m.es/",
+      "startDate": "2019-12-01",
+      "endDate":  "2022-08-01",
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "highlights": [
+        "<a href='https://www.uc3m.es/departamento-matematicas/inicio/'>Departamento de Matemáticas</a",
+        "<a href='https://scala.uc3m.es/index.html/'>Grupo de Modelización, Simulación Numérica y Matemática Industrial</a",
+        "<a href='https://portal.uc3m.es/portal/page/portal/instituto_univ_gregorio_millan_barbany/'>Instituto Gregorio Millán Barbany</a"
+      ]
+    },
+    {
+      "name": "New York University",
+      "position": "Investigador visitante",
+      "url": "https://www.nyu.edu/",
+      "startDate": "2018-09-01",
+      "endDate":  "2018-12-01",
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "highlights": [
+        "<a href='https://cims.nyu.edu/dynamic/'>Courant Institute of Mathematical Sciences</a"
+      ]
+    },
+    {
+      "name": "Universidad Carlos III de Madrid",
+      "position": "Profesor ayudante",
+      "url": "https://www.uc3m.es/",
+      "startDate": "2016-01-01",
+      "endDate":  "2019-12-01",
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "highlights": [
+        "<a href='https://portal.uc3m.es/portal/page/portal/dpto_ciencia_mat_ing_quim'>Departamento de Ciencia e Ingeniería de Materiales e Ingeniería Química</a",
+        "<a href='https://scala.uc3m.es/index.html/'>Grupo de Modelización, Simulación Numérica y Matemática Industrial</a",
+        "<a href='https://portal.uc3m.es/portal/page/portal/instituto_univ_gregorio_millan_barbany/'>Instituto Gregorio Millán Barbany</a"
+      ]
     }
   ],
   "volunteer": [
