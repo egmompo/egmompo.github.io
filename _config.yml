@@ -10,12 +10,12 @@ email: egmompo@comillas.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Web personal de Emanuel Mompó.
 footer_text: >
-  Compilada con <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> usando el tema <a href="https://github.com/alshedivat/al-folio">al-folio</a>.
-  Alojada en <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  Compilada con <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> usando <a href="https://github.com/alshedivat/al-folio">al-folio</a>.
+  Host en <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Diseñada por Gabriel Ramírez Mompó.
 keywords: academic-website # add your own keywords or leave empty
 lang: es # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🐧 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://egmompo.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -46,7 +46,7 @@ rss_icon: false
 # Layout
 # -----------------------------------------------------------------------------
 
-navbar_fixed: false
+navbar_fixed: true
 footer_fixed: false
 
 # Dimensions
@@ -103,8 +103,8 @@ discord_id: # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
-contact_note: >
-  Enviame un correo!!
+#contact_note: >
+#  Enviame un correo!!
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
