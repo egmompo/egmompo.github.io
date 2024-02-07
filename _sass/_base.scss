@@ -239,7 +239,7 @@ blockquote {
   border: 1px solid var(--global-divider-color);
 
   a:not(.active) {
-    color: var(--global-text-color);
+    color: var(--global-footer-text-color);
   }
 
   a:hover {
@@ -252,11 +252,11 @@ blockquote {
 }
 
 .dropdown-item {
-  color: var(--global-text-color);
+  color: var(--global-footer-text-color);
 
   &:hover {
     color: var(--global-hover-color);
-    background-color: var(--global-bg-color);
+    background-color: var(--global-footer-bg-color);
   }
 }
 
@@ -268,14 +268,14 @@ blockquote {
   }
 
   .navbar-brand {
-    color: var(--global-text-color);
+    color: var(--global-footer-text-color);
   }
 
   .navbar-nav .nav-item .nav-link {
-    color: var(--global-text-color);
+    color: var(--global-footer-text-color);
 
     &:hover {
-      color: var(--global-hover-color);
+      color: var(--global-footer-hover-color);
     }
   }
 
@@ -439,7 +439,7 @@ footer.fixed-bottom {
 }
 
 footer.sticky-bottom {
-  border-top: 1px solid var(--global-footer-bg-color);
+  border-top: 1px solid var(--global-divider-color);
   padding-top: 40px;
   padding-bottom: 40px;
   font-size: 0.9rem;
