@@ -10,8 +10,8 @@ email: egmompo@comillas.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Web personal de Emanuel Mompó.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  Compilada con <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> usando el tema <a href="https://github.com/alshedivat/al-folio">al-folio</a>.
+  Alojada en <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Diseñada por Gabriel Ramírez Mompó.
 keywords: academic-website # add your own keywords or leave empty
 lang: es # the language of your site (for example: en, fr, cn, ru, etc.)
@@ -46,8 +46,8 @@ rss_icon: false
 # Layout
 # -----------------------------------------------------------------------------
 
-navbar_fixed: true
-footer_fixed: true
+navbar_fixed: false
+footer_fixed: false
 
 # Dimensions
 max_width: 800px
