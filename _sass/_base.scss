@@ -17,6 +17,8 @@ li,
 span,
 strong {
   color: var(--global-text-color);
+  font-family: 'Fira Code', monospace;
+  font-family: 'Fira Sans', sans-serif;
 }
 
 hr {
@@ -366,7 +368,7 @@ blockquote {
   text-align: center;
 
   .contact-icons {
-    font-size: 2rem;
+    font-size: 4rem;
 
     a {
       i::before {
