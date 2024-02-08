@@ -230,7 +230,7 @@ blockquote {
 .navbar {
   box-shadow: none;
   border-bottom: 1px solid var(--global-divider-color);
-  background-color: var(--global-bg-color);
+  background-color: var(--global-nav-bar-color);
   opacity: 0.95;
 }
 
@@ -268,7 +268,7 @@ blockquote {
   }
 
   .navbar-brand {
-    color: var(--global-text-color);
+    color: var( --global-nav-bar-text-color);
   }
 
   .navbar-nav .nav-item .nav-link {
