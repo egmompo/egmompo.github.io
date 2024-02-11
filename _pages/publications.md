@@ -2,7 +2,6 @@
 layout: page
 permalink: /publications/
 title: investigación
-description: Artículos de investigación.
 nav: true
 nav_order: 3
 ---
