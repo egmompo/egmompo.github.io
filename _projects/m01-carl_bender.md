@@ -8,6 +8,8 @@ category: material
 related_publications: true
 ---
 
+Unos videos de Carl Bender.
+
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="https://www.youtube.com/embed/LYNOGk3ZjFM" class="img-fluid rounded z-depth-1" %}
