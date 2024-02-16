@@ -27,7 +27,7 @@
     - title: <a href="https://www.uc3m.es/" rel="external nofollow noopener" target="_blank">Profesor ayudante</a>
       institution: Universidad Carlos III de Madrid
       year: 2019.12 - 2022.08
-      title: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      #title: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
       description:
         - <a href='https://www.uc3m.es/departamento-matematicas/inicio'>Departamento de Matemáticas</a>
         - <a href='https://scala.uc3m.es/index.html'>Grupo de Modelización, Simulación Numérica y Matemática Industrial</a>
