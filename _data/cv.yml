@@ -1,12 +1,16 @@
-- title: General Information
+- title: Información General
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: Nombre
+      value: Emanuel Mompó
+    - name: Puesto
+      value: Profesor Asistente
+    - name: Email
+      value: egmompo@comillas.edu
+    - name: URL
+    value: https://egmompo.github.io/
+    - name: Investigación
+    value: <b>Non-linear dynamical systems</b>: Chaos, random number generation, noise-induced phenomena, semiconductor superlattices. <b>Statistical mechanics and complex systems</b>: Memory effects, anomalous relaxation, alternative routes towards equilibrium, granular media, spin glasses, quantum dots..
 
 - title: Education
   type: time_table
