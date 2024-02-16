@@ -4,7 +4,7 @@
 
 title: Emanuel Mompó # the website title (if blank, full name will be used instead)
 first_name: Emanuel
-last_name: Mompó
+last_name: "Mompó"
 email: egmompo@comillas.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Web personal de Emanuel Mompó.
@@ -450,7 +450,7 @@ jekyll_get_json:
   - data: resume
     json: assets/json/resume.json # it can also be an url
 jsonresume:
-  - basics
+  - descripción
   - work
   - education
   - publications
