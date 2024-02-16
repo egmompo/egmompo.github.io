@@ -27,15 +27,16 @@
     - title: <a href="https://www.uc3m.es/" rel="external nofollow noopener" target="_blank">Profesor ayudante</a>
       institution: Universidad Carlos III de Madrid
       year: 2019.12 - 2022.08
-      sumary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      title: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
       description:
         - <a href='https://www.uc3m.es/departamento-matematicas/inicio'>Departamento de Matemáticas</a>
         - <a href='https://scala.uc3m.es/index.html'>Grupo de Modelización, Simulación Numérica y Matemática Industrial</a>
         - <a href='https://www.uc3m.es/instituto-gregorio-millan-barbany/inicio'>Instituto Gregorio Millán Barbany</a>
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: <a href="https://www.nyu.edu/" rel="external nofollow noopener" target="_blank">Investigador visitante</a>
+      institution: New York University.
+      year: 2018.09-2018.12
+      description: - "<a href='https://cims.nyu.edu/dynamic/'>Courant Institute of Mathematical Sciences</a>"
 
     - title: Professor of Theoretical Physics
       institution: Karl-Ferdinand University, Prague, Czechoslovakia
