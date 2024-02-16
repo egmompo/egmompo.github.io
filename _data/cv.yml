@@ -10,7 +10,7 @@
     - name: URL
       value: https://egmompo.github.io/
     - name: Investigación
-      value: U?
+      value: <b>Non-linear dynamical systems</b>&#58; Chaos, random number generation, noise-induced phenomena, semiconductor superlattices. <b>Statistical mechanics and complex systems</b> Memory effects, anomalous relaxation, alternative routes towards equilibrium, granular media, spin glasses, quantum dots..
 
 - title: Trabajo
   type: time_table
