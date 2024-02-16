@@ -6,9 +6,9 @@
     - name: Puesto
       value: Profesor Asistente
     - name: Email
-      value: egmompo@comillas.edu
+      value: <a href="mailto:egmompo@comillas.edu" target="_blank">egmompo@comillas.edu</a>
     - name: URL
-      value: https://egmompo.github.io/
+      value: <a href="https://egmompo.github.io/" target="_blank" rel="noopener noreferrer">https://egmompo.github.io/</a>
     - name: Investigación
       value: <b>Non-linear dynamical systems</b>&#58; Chaos, random number generation, noise-induced phenomena, semiconductor superlattices. <b>Statistical mechanics and complex systems</b> Memory effects, anomalous relaxation, alternative routes towards equilibrium, granular media, spin glasses, quantum dots..
 
