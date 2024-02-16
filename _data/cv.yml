@@ -18,18 +18,20 @@
     - title: <a href="https://www.comillas.edu/" rel="external nofollow noopener" target="_blank">Profesor Colaborador Asistente</a>
       institution: Universidad Pontificia Comillas – ICAI
       year: 2022.09 - Presente
+      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
       description:
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
         - Departamento de Matemática Aplicada
         - <a href='https://www.comillas.edu/investigacion/grupos/dinamica-no-lineal/'>Grupo de Dinámica no lineal</a>
         - <a href='https://www.iit.comillas.edu'>Instituto de Investigación Tecnológica (IIT)</a>
-          
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+
+    - title: <a href="https://www.uc3m.es/" rel="external nofollow noopener" target="_blank">Profesor ayudante</a>
+      institution: Universidad Carlos III de Madrid
+      year: 2019.12 - 2022.08
+      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
       description:
-        - Description 1.
-        - Description 2.
+        - <a href='https://www.uc3m.es/departamento-matematicas/inicio'>Departamento de Matemáticas</a>
+        - <a href='https://scala.uc3m.es/index.html'>Grupo de Modelización, Simulación Numérica y Matemática Industrial</a>
+        - <a href='https://www.uc3m.es/instituto-gregorio-millan-barbany/inicio'>Instituto Gregorio Millán Barbany</a>
 
     - title: Director
       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
