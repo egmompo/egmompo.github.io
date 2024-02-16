@@ -46,25 +46,44 @@
         - <a href='https://scala.uc3m.es/index.html'>Grupo de Modelización, Simulación Numérica y Matemática Industrial</a>
         - <a href='https://www.uc3m.es/instituto-gregorio-millan-barbany/inicio'>Instituto Gregorio Millán Barbany</a>
 
-- title: Educación
+- title: Formación
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: <a href="https://www.uc3m.es/ss/Satellite/Doctorado/es/Detalle/Estudio_C/1371210598560/1371210298470/Ingenieria_Matematica" rel="external nofollow noopener" target="_blank">Doctorado en Ingeniería Matemática</a>
+      institution: Universidad Carlos III de Madrid, Leganés, Madrid
+      year: 2019
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Tesis&#58; Modelos de oscilaciones caóticas en superredes semiconductoras a temperatura ambiente
+        - Director&#58; <a href="https://bonilla71.wixsite.com/lbonilla" target="_blank>Prof. Dr. Luis L. Bonilla</a>
+        - Campo de estudio&#58; Sistemas dinámicos, Caos, Efectos constructivos del ruido, Superredes
+        - Beca «Ayuda FPI 2015 del Ministerio de Economía y Competitividad»
+        - Mención Cum Laude
+
+    - title: <a href="https://www.m2i.es/" rel="external nofollow noopener" target="_blank">Máster en Matemática Industrial</a>
+      institution: Universidad Carlos III de Madrid, Leganés, Madrid
+      year: 2016
       description:
-        - Description 1.
-        - Description 2.
+        - Especialización en Modelización Matemática
+        - TFM&#58; Generación de caos en superredes a temperatura ambiente por acoplamiento con un resonador lineal
+        - Director&#58; <a href="https://bonilla71.wixsite.com/lbonilla" target="_blank>Prof. Dr. Luis L. Bonilla</a>
+        - Campo de estudio&#58; Sistemas dinámicos, Caos, Superredes
+        - Beca «Ayuda al estudio de máster universitario»
+        - Nota media (sobre 10.0)&#58; 9.3
+      
+    - title: <a href="https://www.uned.es/universidad/inicio.html" rel="external nofollow noopener" target="_blank">Máster en Formación del profesorado de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional, y Enseñanzas de Idiomas</a>
+      institution: Universidad Nacional de Educación a Distancia
+      year: 2022
+      description:
+        - TFM&#58; Desinformación en la era digital&#58; una oportunidad para la educación matemática
+        - Director&#58; Dr. Antonio Pérez Hernández
+        - Nota media (sobre 10.0)&#58; 8.4
+      
+    - title: <a href="https://www.uv.es/matematiques/" rel="external nofollow noopener" target="_blank">Licenciatura en Matemáticas</a>
+      institution: Universitat de València, Burjassot, Valencia
+      year: 2014
+      description:
+        - Nota media (sobre 10.0)&#58; 7.51
+
 
 - title: Open Source Projects
   type: time_table
