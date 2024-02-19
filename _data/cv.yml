@@ -4,42 +4,42 @@
     - name: Nombre
       value: Emanuel Mompó
     - name: Puesto
-      value: Profesor Asistente
+      value: Profesor Colaborador Asistente
     - name: Email
       value: <a href="mailto:egmompo@comillas.edu" target="_blank">egmompo@comillas.edu</a>
     - name: URL
       value: <a href="https://egmompo.github.io/" target="_blank" rel="noopener noreferrer">https://egmompo.github.io/</a>
     - name: Investigación
-      value: <b>Non-linear dynamical systems</b>&#58; Chaos, random number generation, noise-induced phenomena, semiconductor superlattices. <b>Statistical mechanics and complex systems</b> Memory effects, anomalous relaxation, alternative routes towards equilibrium, granular media, spin glasses, quantum dots..
+      value: <b>Non-linear dynamical systems</b>&#58; Chaos, random number generation, noise-induced phenomena, semiconductor superlattices. <b>Statistical mechanics and complex systems</b> Memory effects, anomalous relaxation, alternative routes towards equilibrium, granular media, spin glasses, quantum dots.
 
 - title: Experiencia
   type: time_table
   contents:
-    - title: <a href="https://www.comillas.edu/" rel="external nofollow noopener" target="_blank">Profesor Colaborador Asistente</a>
-      institution: Universidad Pontificia Comillas – ICAI
-      year: 2022.09 - Presente
+    - title: Profesor Colaborador Asistente
+      institution: <a href="https://www.comillas.edu/" rel="external nofollow noopener" target="_blank">Universidad Pontificia Comillas – ICAI</a>
+      year: 2022.09 - Pres.
       sumary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
       description:
         - Departamento de Matemática Aplicada
         - <a href='https://www.comillas.edu/investigacion/grupos/dinamica-no-lineal/'>Grupo de Dinámica no lineal</a>
         - <a href='https://www.iit.comillas.edu'>Instituto de Investigación Tecnológica (IIT)</a>
 
-    - title: <a href="https://www.uc3m.es/" rel="external nofollow noopener" target="_blank">Profesor ayudante</a>
-      institution: Universidad Carlos III de Madrid
+    - title: Profesor ayudante
+      institution: <a href="https://www.uc3m.es/" rel="external nofollow noopener" target="_blank">Universidad Carlos III de Madrid</a>
       year: 2019.12 - 2022.08
       description:
         - <a href='https://www.uc3m.es/departamento-matematicas/inicio'>Departamento de Matemáticas</a>
         - <a href='https://scala.uc3m.es/index.html'>Grupo de Modelización, Simulación Numérica y Matemática Industrial</a>
         - <a href='https://www.uc3m.es/instituto-gregorio-millan-barbany/inicio'>Instituto Gregorio Millán Barbany</a>
 
-    - title: <a href="https://www.nyu.edu/" rel="external nofollow noopener" target="_blank">Investigador visitante</a>
-      institution: New York University
+    - title: Investigador visitante
+      institution: <a href="https://www.nyu.edu/" rel="external nofollow noopener" target="_blank">New York University</a>
       year: 2018.09 - 2018.12
       description:
         - <a href='https://cims.nyu.edu/dynamic/'>Courant Institute of Mathematical Sciences</a>
 
-    - title: <a href="https://www.uc3m.es/" rel="external nofollow noopener" target="_blank">Investigador predoctoral</a>
-      institution: Universidad Carlos III de Madrid
+    - title: Investigador predoctoral
+      institution: <a href="https://www.uc3m.es/" rel="external nofollow noopener" target="_blank">Universidad Carlos III de Madrid</a>
       year: 2016.01 - 2019.12
       description:
         - <a href='https://www.uc3m.es/departamento-ciencia-ingenieria-materiales-ingenieria-quimica/inicio'>Departamento de Ciencia e Ingeniería de Materiales e Ingeniería Química</a>
@@ -50,7 +50,7 @@
   type: time_table
   contents:
     - title: <a href="https://www.uc3m.es/ss/Satellite/Doctorado/es/Detalle/Estudio_C/1371210598560/1371210298470/Ingenieria_Matematica" rel="external nofollow noopener" target="_blank">Doctorado en Ingeniería Matemática</a>
-      institution: Universidad Carlos III de Madrid, Leganés, Madrid
+      institution: <a href="https://www.uc3m.es/" rel="external nofollow noopener" target="_blank">Universidad Carlos III de Madrid</a>, Leganés, Madrid
       year: 2019
       description:
         - Tesis&#58; Modelos de oscilaciones caóticas en superredes semiconductoras a temperatura ambiente
@@ -60,7 +60,7 @@
         - Mención Cum Laude
 
     - title: <a href="https://www.m2i.es/" rel="external nofollow noopener" target="_blank">Máster en Matemática Industrial</a>
-      institution: Universidad Carlos III de Madrid, Leganés, Madrid
+      institution: U<a href="https://www.uc3m.es/" rel="external nofollow noopener" target="_blank">Universidad Carlos III de Madrid</a>, Leganés, Madrid
       year: 2016
       description:
         - Especialización en Modelización Matemática
@@ -70,8 +70,8 @@
         - Beca «Ayuda al estudio de máster universitario»
         - Nota media (sobre 10.0)&#58; 9.3
 
-    - title: <a href="https://www.uned.es/universidad/inicio.html" rel="external nofollow noopener" target="_blank">Máster en Formación del profesorado de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional, y Enseñanzas de Idiomas</a>
-      institution: Universidad Nacional de Educación a Distancia
+    - title: Máster en Formación del profesorado de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional, y Enseñanzas de Idiomas
+      institution: <a href="https://www.uned.es/universidad/inicio.html" rel="external nofollow noopener" target="_blank">Universidad Nacional de Educación a Distancia</a>
       year: 2022
       description:
         - TFM&#58; Desinformación en la era digital&#58; una oportunidad para la educación matemática
@@ -79,43 +79,7 @@
         - Nota media (sobre 10.0)&#58; 8.4
 
     - title: <a href="https://www.uv.es/matematiques/" rel="external nofollow noopener" target="_blank">Licenciatura en Matemáticas</a>
-      institution: Universitat de València, Burjassot, Valencia
+      institution: <a href="https://www.uv.es/" rel="external nofollow noopener" target="_blank">Universitat de València</a>, Burjassot, Valencia
       year: 2014
       description:
         - Nota media (sobre 10.0)&#58; 7.51
-
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
