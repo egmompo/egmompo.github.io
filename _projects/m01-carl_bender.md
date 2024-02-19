@@ -5,7 +5,7 @@ description: Curso de Carl Bender
 img: assets/img/9.jpg
 importance: 1
 category: material
-related_publications: true
+related_publications: false
 ---
 
 <div class="row mt-3">
