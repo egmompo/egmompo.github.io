@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Tutorías (futuro)
-description: Semana del 19 al 23 de febrero
+title: Tutorías (19/02 al 23/02)
+description: Semana que viene
 img: assets/img/delorean.volveralfuturo.jpg
 redirect: https://www.wejoinin.com/sheets/crfig
 importance: 2

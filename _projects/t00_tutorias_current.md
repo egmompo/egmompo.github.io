@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Tutorías
-description: Semana del 12 al 16 de febrero
+title: Tutorías (12/02 al 16/02)
+description: Semana actual
 img: assets/img/12.jpg
 redirect: https://www.wejoinin.com/sheets/nmmwq
 importance: 1
