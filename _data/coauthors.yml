@@ -1,34 +1,15 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"lasanta":
+  - firstname: ["Antonio", "A.", "A. L.", "Antonio Lasanta"]
+    url: https://scholar.google.es/citations?user=KmnLvqQAAAAJ&hl=es
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"victor":
+  - firstname: ["Víctor", "V. M.-M.", "V. Martín-Mayor","Víctor Martín-Mayor"]
+    url: https://teorica.fis.ucm.es/victor/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"bonilla":
+  - firstname: ["Luis", "Luis Bonilla", "L. Bonilla", "Luis L. Bonilla", "L. L. Bonilla"]
+    url: https://bonilla71.wixsite.com/lbonilla
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
-
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
-
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
-
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"aurora":
+  - firstname: ["Aurora", "A. Torrente", "Aurora Torrente"]
+    url: https://www.uc3m.es/ss/Satellite/DeptMatematicas/es/DetallePersonalDept/1371321047838/idu-1591
