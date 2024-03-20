@@ -1,10 +1,9 @@
 ---
 layout: profiles
 permalink: /people/
-title: Colaboradores
-description: Colaboradores
+title: colaboradores
 nav: false
-nav_order: 7
+nav_order: 4
 
 profiles:
   # if you want to include more than one profile, just replicate the following block

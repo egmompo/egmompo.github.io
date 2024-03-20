@@ -4,7 +4,7 @@ title: proyectos
 permalink: /projects/
 description: Proyectos en los que participo.
 nav: false
-nav_order: 5
+nav_order: 6
 display_categories: [work, fun]
 horizontal: false
 ---

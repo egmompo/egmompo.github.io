@@ -4,7 +4,7 @@ title: docencia
 permalink: /teaching/
 description: Horario de tutorías, asignaturas que imparto, y material de apoyo.
 nav: true
-nav_order: 4
+nav_order: 5
 display_categories: [curso actual, material, cursos anteriores]
 horizontal: false
 ---
