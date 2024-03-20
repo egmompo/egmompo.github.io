@@ -1,15 +1,15 @@
 "lasanta":
-  - firstname: ["Antonio", "A. Lasanta", "Antonio Lasanta"]
+  - firstname: ["Antonio", "A."]
     url: https://scholar.google.es/citations?user=KmnLvqQAAAAJ
 
-"victor":
-  - firstname: ["Víctor", "V. Martín-Mayor","Víctor Martín-Mayor"]
+"martín-mayor":
+  - firstname: ["Víctor", "V."]
     url: https://teorica.fis.ucm.es/victor/
 
 "bonilla":
-  - firstname: ["Luis", "L. Bonilla", "Luis Bonilla", "Luis L. Bonilla", "L. L. Bonilla"]
+  - firstname: ["Luis", "L.L", "Luis L."]
     url: https://bonilla71.wixsite.com/lbonilla
 
-"aurora":
-  - firstname: ["Aurora", "A. Torrente", "Aurora Torrente"]
+"torrente":
+  - firstname: ["Aurora", "A."]
     url: https://www.uc3m.es/ss/Satellite/DeptMatematicas/es/DetallePersonalDept/1371321047838/idu-1591
