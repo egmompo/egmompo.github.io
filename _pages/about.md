@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-EM es Licenciado en Matemáticas por la Universitat de València (2014) y Doctor en Ingeniería Matemática por la Universidad Carlos III de Madrid (2019), donde permaneció como profesor hasta 2022.
+EM es Licenciado en Matemáticas por la Universitat de València (2014) y Doctor en Ingeniería Matemática por la Universidad Carlos III de Madrid (2019), donde permaneció como profesor hasta 2022. Desde entonces, forma parte del Departamento de Matemática Aplicada de la Universidad Pontificia Comillas --- ICAI, donde actualmente es Profesor Colaborador Asistente.
 
 Su investigación hasta el momento se ha enfocado en dos áreas: sistemas dinámicos no lineales (comportamiento caótico para la generación de números aleatorios y efectos constructivos del ruido) y física estadística fuera del equilibrio (efectos de memoria y efectos de relajación anómala en diferentes sistemas físicos, así como posibles aplicaciones).
 
