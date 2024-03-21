@@ -10,6 +10,10 @@
   - firstname: ["Luis", "L.L", "Luis L."]
     url: https://bonilla71.wixsite.com/lbonilla
 
+"carretero":
+  - firstname: ["Manuel", "M."]
+    url: https://scholar.google.com/citations?user=6Pt3BOcAAAAJ
+
 "torrente":
   - firstname: ["Aurora", "A."]
     url: https://www.uc3m.es/ss/Satellite/DeptMatematicas/es/DetallePersonalDept/1371321047838/idu-1591
@@ -17,3 +21,15 @@
 "villasenor":
   - firstname: ["Eduardo J. S.", "E. J. S."]
     url: https://scala.uc3m.es/villasenor/
+
+"ruiz-garcia":
+  - firstname: ["Miguel", "M."]
+    url: https://miguelruizgarcia.eu/
+
+"varo":
+  - firstname: ["Valle", "V.", "M. del Valle"]
+    url: https://scholar.google.com/citations?user=i7A5r1EAAAAJ
+
+"salas":
+  - firstname: ["Jesús", "J."]
+    url: https://scholar.google.com/citations?user=e6lurg8AAAAJ
