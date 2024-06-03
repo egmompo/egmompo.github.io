@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Tutorías (3/06 al 7/06)
-description: Semana actual
+title: Tutorías
+description: Indica la asignatura
 img: assets/img/tutoring_now.png
-redirect: https://www.wejoinin.com/sheets/jhcgn
+redirect: https://www.wejoinin.com/egmompo@comillas.edu
 importance: 1
 category: curso actual
 ---
