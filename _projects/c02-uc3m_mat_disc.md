@@ -3,7 +3,7 @@ layout: page
 title: Matemática Discreta
 description:
 img: assets/img/course_discrete_math2.png
-importance: 2
+importance: 4
 category: cursos anteriores
 ---
 

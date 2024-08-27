@@ -3,7 +3,7 @@ layout: page
 title: Cálculo
 description:
 img: assets/img/course_calculus.png
-importance: 3
+importance: 1
 category: cursos anteriores
 ---
 

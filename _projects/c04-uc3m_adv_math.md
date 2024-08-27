@@ -3,7 +3,7 @@ layout: page
 title: Advanced Mathematics
 description:
 img: assets/img/course_advanced_mathematics.png
-importance: 4
+importance: 6
 category: cursos anteriores
 ---
 

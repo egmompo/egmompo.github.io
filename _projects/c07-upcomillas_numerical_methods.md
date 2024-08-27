@@ -3,7 +3,7 @@ layout: page
 title: Métodos Numéricos
 description:
 img: assets/img/course_numerical_methods.png
-importance: 2
+importance: 3
 category: curso actual
 ---
 

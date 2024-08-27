@@ -3,7 +3,7 @@ layout: page
 title: Álgebra Lineal
 description:
 img: assets/img/course_linear_algebra.png
-importance: 3
+importance: 5
 category: cursos anteriores
 ---
 

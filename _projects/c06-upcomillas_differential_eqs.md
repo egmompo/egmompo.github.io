@@ -3,7 +3,7 @@ layout: page
 title: Ecuaciones Diferenciales
 description:
 img: assets/img/course_differential_equations.png
-importance: 4
+importance: 2
 category: cursos anteriores
 ---
 

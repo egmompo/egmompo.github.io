@@ -3,7 +3,7 @@ layout: page
 title: Discrete Mathematics
 description:
 img: assets/img/course_discrete_math1.png
-importance: 2
+importance: 3
 category: cursos anteriores
 ---
 
