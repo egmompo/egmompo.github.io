@@ -9,4 +9,4 @@ category: cursos anteriores
 
 Desde el curso 2019-2020 hasta el curso 2021-2022 (3 cursos académicos) he impartido la asignatura _Discrete Mathematics_, dentro del _BSc in Computer Science_ de la Universidad Carlos III de Madrid.
 
-También he sido el cordinador de la asignatura durante los cursos académicos mencionados.
+También he sido el coordinador de la asignatura durante los cursos académicos antes mencionados.

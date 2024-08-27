@@ -4,7 +4,7 @@ title: Métodos Perturbativos
 description: Curso de Carl Bender
 img: assets/img/9.jpg
 importance: 1
-category: material
+category: material de terceros
 related_publications: false
 ---
 
