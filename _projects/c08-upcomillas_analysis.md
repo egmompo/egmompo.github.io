@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cálculo
+title: Análisis Matemático
 description:
 img: assets/img/course_calculus.png
 importance: 2
