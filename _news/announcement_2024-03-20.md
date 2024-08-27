@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-¡Artículo publicado en _Physical Review Letters_! Escogido como _Editor's Suggestion_ :sunglasses:.
+¡Artículo publicado en _Physical Review Letters_! Escogido como _Editor\'s Suggestion_ :sunglasses:.
