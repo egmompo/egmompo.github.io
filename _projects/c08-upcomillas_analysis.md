@@ -2,7 +2,7 @@
 layout: page
 title: Análisis Matemático
 description:
-img: assets/img/course_calculus.png
+img: assets/img/course_analysis.png
 importance: 2
 category: curso actual
 ---
