@@ -4,7 +4,7 @@ title: Computación Cuántica
 description: Curso de John Preskill
 img: assets/img/external_quantum.png
 redirect: https://web.archive.org/web/20240329060203/http://theory.caltech.edu/~preskill/ph229/
-importance: 3
+importance: 2
 category: material de terceros
 related_publications: false
 ---
