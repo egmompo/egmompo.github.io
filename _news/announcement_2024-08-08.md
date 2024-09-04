@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-¡Artículo publicado en _Entropy_!
+¡Trabajo publicado en _Entropy_!
